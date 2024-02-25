@@ -1,0 +1,13 @@
+---
+import { basics } from '@cv';
+import Section from '@/components/Section.astro';
+
+const { name, label, image, location, profiles, phone, email } = basics;
+---
+
+<Section>
+  <div class='container'>
+    <h1>{name}</h1>
+    <h2>{label}</h2>
+  </div>
+</Section>

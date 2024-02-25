@@ -1,0 +1,486 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Martin Estanislao Escalante Leiva (stani)",
+    "label": "Desarrollador Front End Senior en ASSIST CARD",
+    "image": "",
+    "email": "martinescalanteleiva@icloud.com",
+    "phone": "11-5597-3803",
+    "url": "",
+    "summary": "Soy un Desarrollador Front-end especializado en la migración de sistemas web heredados en diferentes lenguajes, como PHP, Ruby, HTML y CSS, hacia tecnologías modernas, tales como ReactJS, Angular, NodeJS, SCSS, Styled Components y Tailwind. Mi enfoque principal es mejorar tanto el rendimiento del sitio como la experiencia del usuario.\n\nApasionado por la tecnología web, mi objetivo siempre está alineado con contribuir a la eficiencia del equipo y la calidad del producto. Poseo experiencia en consultoría y gestión de proyectos, así como en la aplicación de metodologías ágiles y Scrum.\n\nMi enfoque se centra en comprender creativamente las métricas cuantitativas de datos y garantizar la satisfacción del cliente a través de soluciones innovadoras y de alta calidad. Me guío por la información y por el producto, buscando constantemente maneras de mejorar y optimizar nuestros procesos de desarrollo.",
+    "location": {
+      "countryCode": "ES",
+      "address": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "meel1975",
+        "url": "https://www.linkedin.com/in/meel1975/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ASSIST CARD",
+      "position": "Senior Front End Developer",
+      "startDate": "2021-03-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Mi enfoque desde el principio fue mejorar el rendimiento y establecer las mejores prácticas de desarrollo.\nLlevamos a cabo pruebas A/B y realizamos cambios basados en una comprensión creativa de medición de datos cuantitativos, enfocados a la satisfacción del cliente.\nProyecto: Aplico mi experiencia para solucionar problemas del código a través de diferentes herramientas web, y he codificado la última versión del sitio web, disponible en línea assistcard.com\n\nPila tecnológica: C#, Razor Pages, Bootstrap 5, CSS, JavaScript, jQuery",
+      "url": "https://www.linkedin.com/company/assist-card/",
+      "location": "Ciudad de Buenos Aires, Provincia de Buenos Aires, Argentina"
+    },
+    {
+      "name": "Avantrip.com",
+      "position": "HTML, CSS, Javascript Developer - Maquetador",
+      "startDate": "2014-09-30",
+      "endDate": "2021-03-31",
+      "highlights": [],
+      "summary": "Trabajé en las áreas de frontend y backend para el proceso final de compra y comunicación.\nProyecto: Optimización, validación, testing y entrega de productos para el área de desarrollo, siguiendo altos estándares de código. avantrip.com\n\nPilas tecnológicas: PHP, Symfony, SASS, AngularJS, React, Node, CSS3, HTML5, GraphQL",
+      "url": "https://www.linkedin.com/company/avantrip.com/",
+      "location": "Ciudad de Buenos Aires, Provincia de Buenos Aires, Argentina"
+    },
+    {
+      "name": "Digital House Argentina",
+      "position": "Ayudante de profesor",
+      "startDate": "2019-08-31",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": "Me uní a Digital House para el curso de Programación Web Full Stack. Soy ayudante del profesor y amigo Sacha Lifszyc, enseñamos HTML, CSS (Bootstrap y Flexbox), PHP con Laravel y JavaScript. Mi misión en esta organización y con cada momento que paso con mis alumnos  es contribuir positivamente en el cambio y exploración que buscan al encarar una nueva carrera en sus vidas, acompañarlos desde mi experiencia personal y conocimientos. Aprender a desarrollar una nueva forma de resolver desafíos, de encarar los problemas y de trabajar.",
+      "url": "https://www.linkedin.com/school/digitalhouseschool/",
+      "location": "Argentina"
+    },
+    {
+      "name": "PHP, MySQL, Javascript, JQuery, CSS/HTML",
+      "position": "Developer",
+      "startDate": "2011-12-31",
+      "endDate": "2018-12-31",
+      "highlights": [],
+      "summary": "Trabajo como developer y coordinador con diseñadores y equipos muchas provincias de Argentina y en diferentes lugares del mundo. Neuquén, Río Negro y Buenos Aires. Clientes en países como Brasil, España, India, UK, EEUU y Australia. Me gusta trabajar en equipo y asumir compromisos. Trabajo continuamente en los skills de comunicación y técnicas de manejos de proyectos, aplicando . Mis colegas y clientes saben soy una persona calmada y confían sus negocios y desarrollos en mi responsabilidad y consejo.",
+      "url": "",
+      "location": "Argentina, alrededores y World Wide Web"
+    },
+    {
+      "name": "Planisys S.A.",
+      "position": "Senior Front End Developer | UI Expert | GUI Email Newsletter Profesional | Web Master",
+      "startDate": "2012-02-28",
+      "endDate": "2014-08-31",
+      "highlights": [],
+      "summary": "Email/HTML Newsletter marketing expert / Cross-platform Development / Interface Designer for Corporate Products\n\nLogros: \nTerminando de desarrollar el primer canal Pay Per View de música clásica en HD para LG Smart TV.\nMejorar el diseño de la comunicación vía newsletters de AGEA SA (Grupo Clarín, Gran DT, etc.) al lograr la compatibilidad a través de todos los clientes de email, más de 15 millones de mails mensuales.\nCoordinar el equipo para la implementación de nuevas interfaces para los productos principales de Planisys. Corpmail y Data Mining & Delivery System",
+      "url": "https://www.linkedin.com/company/planisys/",
+      "location": "CABA, Argentina"
+    },
+    {
+      "name": "ConvertMyFlash",
+      "position": "Programmer",
+      "startDate": "2011-09-30",
+      "endDate": "2011-12-31",
+      "highlights": [],
+      "summary": "Convert FLASH sites into HTML5 sites (powered by WordPress).  SEO optimized and Apple IOS devices friendly.",
+      "url": "https://www.linkedin.com/company/convertmyflash/",
+      "location": "Nueva York y alrededores, Estados Unidos"
+    },
+    {
+      "name": "D-MOTIKO",
+      "position": "Programador Web",
+      "startDate": "2010-12-31",
+      "endDate": "2011-08-31",
+      "highlights": [],
+      "summary": "A cargo del área Desarrollo Web\nProgramación. Planificación e implementación de sitios y\npáginas web, teniendo en cuenta cuestiones tales como navegabilidad, interactividad, usabilidad y arquitectura de la información. Customización de Joomla, Wordpress, PHP avanzado, HTML y CSS, FLASH.",
+      "url": "",
+      "location": "Argentina"
+    },
+    {
+      "name": "MAXIM GAMES S.A.",
+      "position": "Técnico en reparaciones y montaje de instalaciones",
+      "startDate": "2003-06-30",
+      "endDate": "2007-03-31",
+      "highlights": [],
+      "summary": "Empresa dedicada a la comercialización de máquinas recreativas (Video Juegos, Flippers, Kiddies, Metegoles). División Recreativos.\nTécnico en reparaciones y montaje de instalaciones.",
+      "url": "",
+      "location": "Argentina"
+    },
+    {
+      "name": "ARTISANS ARGENTINA S.R.L.",
+      "position": "Programación y desarrollo de sistemas en Visual Basic, ODBC y MS SQL Server, MS Access.",
+      "startDate": "1997-04-30",
+      "endDate": "2000-10-31",
+      "highlights": [],
+      "summary": "Programación y desarrollo de sistemas en Visual Basic, ODBC y MS SQL Server, MS Access. Programación de sistemas para colectores de datos con lectores de códigos de barras y transferencia de datos.\nCapacitación de usuarios.",
+      "url": "",
+      "location": "Argentina"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Biblioteca Pública y Complejo Cultural Mariano Moreno",
+      "position": "Vocal y Tesorero",
+      "startDate": "2000-03-31",
+      "endDate": "2011-11-30",
+      "summary": "Como asistente asiduo de la biblioteca desde una muy temprana edad, siempre me interese por ella, al ir creciendo como persona incluí el trabajo voluntario como una de las guias de mi vida. El acceso a la cultura es un diferencial para todos. Lo fue para mi y compartirlo a la vez que facilitarlo es mi objetivo. Despues de 10-11 años en distintas posiciones hoy empece mi carrera de nuevo en otra Biblioteca Bernalense a la que ya aprecio mucho.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Torcuato di Tella",
+      "area": "Arte",
+      "studyType": "",
+      "startDate": "2010-12-31",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "E.E.T Nro 7",
+      "area": "Electrónica y Computación",
+      "studyType": "Técnico",
+      "startDate": "1989-12-31",
+      "endDate": "1994-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Instituto Universitario Nacional del Arte",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "area": "Artes Visuales",
+      "studyType": "Licenciado",
+      "startDate": "2001-12-31",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Project Management Professional (PMP)®",
+      "issuer": "Project Management Institute, Washington DC Chapter, Inc"
+    },
+    {
+      "name": "Intro to SQL for Data Science",
+      "issuer": "DataCamp",
+      "startDate": "2019-12-31",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/4829a3e6f3ecabc23636a20ce5765ac641724adc"
+    },
+    {
+      "name": "Intermediate Python for Data Science",
+      "issuer": "DataCamp",
+      "startDate": "2019-11-30",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/71c838a55296d5fcaf1cfb18156a4f3f3ff39f64"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Rust (lenguaje de programación)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GraphQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Compatibilidad entre navegadores",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-end Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Diseño web adaptable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Historias de usuarios",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Experiencia del usuario",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Optimización en buscadores",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Advanced CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Metodologías ágiles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "B2",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Functions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestión ágil de proyectos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestión de proyectos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lenguaje SASS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Alto rendimiento",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inglés",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Comunicaciones",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Control de versiones",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Diseño de la interfaz de usuario",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Desarrollo del front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Skill Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Usabilidad",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interface Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interface",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hojas de estilos en cascada (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Desarrollo web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interfaz de usuario",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Usability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical English",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Methodology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Next.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "es",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Chino"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Español"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "Inglés"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Victor Paredes",
+      "reference": "He trabajado con Estanislao durante 6 meses en un proyecto legacy en el cual me ha demostrado sus habiliades de poder adaptarse a lo que estaba y ademas poder hacer crecer el proyecto sin comprometer la calidad.\nEn lo personal, es una persona amable y social, debido a la pandemia no pudimos compartir mucho la oficina pero trabajar remoto con el se sentia como si lo conocieras de toda la vida.\nEspero en algun momento volver a compartir equipo ya que fue una experiencia muy buena."
+    },
+    {
+      "name": "Florencia Dominguez",
+      "reference": "Martin es una de las personas más amables que conocí en Avantrip, de verdad admiro su predisposición para asumir cualquier trabajo que se le solicitaba con optimismo y tranquilidad. Siempre que hemos trabajado juntos, él supo como resolver la necesidad de diseño y/o programación de cualquier equipo e incluso aquellas campañas sumamente importantes para la compañía!"
+    },
+    {
+      "name": "Evelyn Marques",
+      "reference": "Martín es un excelente programador, siempre ha cumplido en tiempo y forma, superando mis expectativas. Recomiendo al 100% su trabajo, es todo un profesional y su trato con clientes es muy amable."
+    },
+    {
+      "name": "Florencia Faivich",
+      "reference": "Martín es un excelente profesional el cual ha demostrado dedicación y un alto compromiso con las tareas realizadas. Asimismo sus cualidades personales hacen que sea muy grato compartir con él equipos de trabajo."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Avantrip Vuelos versión móvil",
+      "startDate": "2015-01-31",
+      "summary": "Versión móvil de la web de compras de tickets para vuelos integrado dinámicamente y conectado al sistema de gestión, facilitando las compras de vuelos desde los dispositivos móviles, ofreciendo tarifas y ofertas totalmente automatizadas y gestionadas desde el propio gestor de contenidos de la web corporativa.",
+      "url": "http://m.avantrip.com/",
+      "endDate": "2015-01-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
